@@ -5,3 +5,7 @@ created a click-through rate (CTR) prediction pipeline. You will work with the C
 # Model
 
 Logestic regression.
+
+# Method 
+
+Featured Hashing.
