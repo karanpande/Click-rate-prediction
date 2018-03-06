@@ -4,7 +4,7 @@ Created a click-through rate (CTR) prediction pipeline. We will work with the Cr
 
 # Model
 
-Logestic regression.
+Logistic regression.
 
 # Method 
 
