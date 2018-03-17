@@ -1,17 +1,4 @@
-# Click Trough Rate (CTR)
-# Language: Python
-# Dataset: Criteo public dataset
-# Data information:
-# •	Label - Target variable that indicates if an ad was clicked (1) or not (0).
-# •	I1-I13 - A total of 13 columns of integer features (mostly count features).
-# •	C1-C26 - A total of 26 columns of categorical features. The values of these #features have been hashed onto 32 bits for anonymization purposes. 
-# The semantic of the features is undisclosed.
-# When a value is missing, the field is empty.
-# Dataset: Dataset consist of two files 
-# 1: Train.csv
-# 2: Test.csv
 
-# Code
 
 # Importing the dataset
 
@@ -64,7 +51,7 @@ else:
         print 'Unable to unpack: {0}'.format(url)
 
 
-# Loading and splitting the dataset into training,validation and testing (ratio .8:.1:.1)
+
 
 
 weights = [.8, .1, .1]
